@@ -1,0 +1,10 @@
+/venv
+/logs
+/database/data
+gpio_test.py
+line_checker.py
+loading_screen.py
+main - Copy.py
+ui - Copy.py
+.venv
+.idea
